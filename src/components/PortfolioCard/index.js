@@ -13,7 +13,7 @@ function PortfolioCard({title,description,imageUrl,githubUrl }) {
                     <h2 className='uk-card-title'>{title}</h2>
                     <p>{description}</p>
                     <a className='portfolioLink' href={githubUrl} target='_blank' 
-                    rel='githubUrl'>GitHub</a>
+                    rel="noopener noreferrer">GitHub</a>
                 </div>
             </div>
         </div>
