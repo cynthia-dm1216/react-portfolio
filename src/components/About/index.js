@@ -5,8 +5,8 @@ function About() {
     return (
         <div>
             <div className='uk-tile aboutSection' uk-height-viewport='expand: true'>
-                <img src='../../../public/assets/placeholder300x300.jpg' alt='My Picture' className='uk-border-square' uk-img='true' />
-                <p className='uk-text-center'>
+                <img src='../../assets/My_headshot.jpg' alt='My Picture' className='uk-border-circle myImg' uk-img='true' />
+                <p className='uk-text-center aboutMe'>
                     Front-End Web Developer with a certificate in Full Stack Web Developer from the University of Texas.
                     With skills in HTML,CSS,JS,Node and Express.This coding bootcamp has helped me in collaborating 
                     with individuals with different backgrounds and has thought me how to calloborate and manage my time. Having the oppurtunity to take this bootcamp
