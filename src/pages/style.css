@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 30px 100px;
+    background-color: #402A2C;
+}
+
+.contactContainer {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: lighter;
+}
+
+h2 {
+   font-family:'Open Sans Condensed', sans-serif;
+   font-size: 32px;
+   color: black;
+   margin-bottom: 40px;
+}
+
+@media only screen and (max-width:992px){
+    .container {
+        padding: 20px;
+    }
+}
