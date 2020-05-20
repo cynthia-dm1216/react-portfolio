@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-function Contact() {
+function ContactCard() {
     return(
         <form className='uk-form-stacked uk-position-relative' uk-height-viewport='expand: true'>
             <div className='uk-margin'>
@@ -27,4 +27,4 @@ function Contact() {
     );
 }
 
-export default Contact;
+export default ContactCard;

@@ -22,7 +22,7 @@ function Portfolio() {
               key={project.title}
               title={project.title}
               description={project.description}
-              imageUrl={project,imageUrl}
+              imageUrl={project.imageUrl}
               githubUrl={project.githubUrl}
               />
           ))
