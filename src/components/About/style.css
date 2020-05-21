@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.About{
+    color: #FFFF;
+    font-size: 32px;
+}
+
 .aboutWrapper {
     max-width: 640px;
     margin: 40px auto;
@@ -15,10 +20,14 @@
 }
 
 .aboutMe{
-    color: #fff;
+    color: #FFFF;
     font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: lighter;
+   
 }
 
-.myImg {
-    max-width: 300px;
+.MyImg {
+    width: 200px;
+    float:right;
+    border-radius: 50%;
 }
