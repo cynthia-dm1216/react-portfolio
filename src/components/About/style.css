@@ -4,14 +4,19 @@
     box-sizing: border-box;
 }
 
+.aboutWrapper {
+    max-width: 640px;
+    margin: 40px auto;
+}
+
 .aboutSection {
     margin: 32px;
     max-width: 540px;
 }
 
 .aboutMe{
-    color: black;
-   font-family: 'Open Sans Condensed', sans-serif;
+    color: #fff;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .myImg {
