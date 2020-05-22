@@ -7,7 +7,7 @@ function About() {
         <div className='aboutWrapper'>
             <div className='uk-tile aboutSection' uk-height-viewport='expand: true'>
                 <h2 className='uk-text-center About'>About</h2>
-                <img src={myImg} alt='My Picture' className='uk-border-circle MyImg' uk-img='true' />
+                <img src={myImg} alt='' className='uk-border-circle MyImg' uk-img='true' />
                 <p className='uk-text-center aboutMe'>
                     Front-End Web Developer with a certificate in Full Stack Web Developer from the University of Texas.
                     With skills in HTML,CSS,JS,Node and Express.This coding bootcamp has helped me in collaborating 

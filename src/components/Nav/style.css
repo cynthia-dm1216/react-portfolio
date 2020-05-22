@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logoWrapper {
+    height: 40px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nameLink {
+    color: rgb(245, 167, 195);
+}
+
+.navbarLink{
+    display: flex;
+}
+
+.navbarLink li a {
+    color: rgb(245, 167, 195);
+}
+
+.navbarLink li a:hover {
+    color: rgb(245, 167, 195);
+}
+
+.navbarLink li a:focus {
+    color:rgb(245, 167, 195);
+}

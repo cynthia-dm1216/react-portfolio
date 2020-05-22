@@ -12,6 +12,7 @@
 .aboutWrapper {
     max-width: 640px;
     margin: 40px auto;
+    float: center;
 }
 
 .aboutSection {
