@@ -7,12 +7,19 @@
 .About{
     color: #FFFF;
     font-size: 32px;
-}
+} 
 
 .aboutWrapper {
     max-width: 640px;
     margin: 40px auto;
     float: center;
+}
+
+.uk-container{
+    max-width: 200px;
+    margin:40px auto;
+    float: right;
+    
 }
 
 .aboutSection {
@@ -24,7 +31,9 @@
     color: #FFFF;
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: lighter;
-   
+    font-size: 20px;
+    height: 650px;
+    width: 200px;
 }
 
 .MyImg {

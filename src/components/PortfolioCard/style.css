@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.porfolioLink {
+    color:#402A2C;
+    padding: 10px 20px;
+    height: 32px;
+    font-size: 14px;
+    border: none;
+    font-weight: 400;
+    letter-spacing: 1.2px;
+    background-color: rgb(245,167,195);
+    margin-right: 10px;
+}
+
+.portfolio {
+    font-weight: lighter;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.portfolioLink:hover{
+    background-color: #402A2C;
+    color: rgb(245,167,195);
+}

@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.inner-footer{
+    text-align: center;
+    position: fixed;
+    background-color: rgb(245,167,195);
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: block;
+}

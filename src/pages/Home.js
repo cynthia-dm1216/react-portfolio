@@ -7,12 +7,7 @@ function Home() {
         <div className='container'>
             <div className='uk-child-width-expand@m uk-text-center uk-grid-collapse' uk-grid='true'>
                 <About />
-                
-                        <a href="https://www.linkedin.com/in/cynthia-dominguez-2b6ba21a1/" target="_blank" rel='noopener noreferrer'>LinkedIn</a>
-                        <br />
-                        <a href="https://github.com/cynthia-dm1216" target="_blank" rel='noopener noreferrer'>GitHub</a>
-                        <br />
-                        <a href="" target="_blank" rel='noopener noreferrer'>Resume</a>
+                        <a href="https://docs.google.com/document/d/1kRt1syrTPc4EsuekK8yoeT1-0yv_afnfkYeyxyhm6eg/edit?usp=sharing" target="_blank" rel='noopener noreferrer'>Resume</a>
                   </div>
                 </div>
        

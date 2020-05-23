@@ -7,12 +7,12 @@ function Nav() {
         <div>
             <nav id='navheader'
             className='uk-navbar-container uk-navbar-transparent uk-padding-large uk-padding-remove' uk-navbar='true'>
-                <div id='logoWrapper' className='uk-navbar-left uk-width-2-3@l uk-width-1-2@s'>
-                    <span id='logoType' className='uk-navbar-item uk-logo uk-light'>Cynthia Dominguez</span>
+                 <div id='logoWrapper' className='uk-navbar-left uk-width-2-3@l uk-width-1-2@s'> 
+                     <span id='logoType' className='uk-navbar-item uk-logo uk-light'>Cynthia Dominguez</span>
                 </div>
-                <div className='uk-navbar-left'>
+                 {/* <div>
                     <Link className='uk-navbar-item nameLink' to='/'>Cynthia Dominguez</Link>
-                </div>
+                </div>   */}
                 <div className='uk-navbar-rigth'>
                     <ul className='uk-navbar-nav navbarLink'>
                         <li><Link to='/' className='navLinks'>About</Link></li>

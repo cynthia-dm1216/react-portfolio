@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Superhero B&B",
+      "imageUrl":"../../src/assets/stayHomeWellness.png",
+      "description": "An app that allows fanatic superhero users to view their hero stats",
+      "githubUrl": "https://github.com/cynthia-dm1216/ProjectGroup1",
+      "deployedUrl": "https://cynthia-dm1216.github.io/ProjectGroup1/"
+    },
+    {
+        "id": 2,
+        "title": "Stay Home Activity Finder",
+        "imageUrl":"../../src/assets/stayHomeWellness.png",
+        "description": "An app that finds recipes and workouts that work with what the user has at home",
+        "githubUrl": "https://github.com/cynthia-dm1216/Group1-stayHomeWellness",
+        "deployedUrl":"https://team1-project2.herokuapp.com"
+
+    }
+]

@@ -13,6 +13,9 @@
 
 .nameLink {
     color: rgb(245, 167, 195);
+    margin-right: 100%;
+    text-align: center;
+    width:40%;
 }
 
 .navbarLink{
