@@ -4,10 +4,10 @@ import ContactCard from '../components/ContactCard';
 
 function Contact(){
     return(
-        <div className='container'>
+        <div className='containerWrapper'>
             <h1 className='uk-text-center'>Contact</h1>
             <div className='contactContainer uk-child-width-1-2@m' uk-grid='true'>
-                <Contact />
+                <ContactCard />
             </div>
         </div>
     );
