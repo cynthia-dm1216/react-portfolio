@@ -5,6 +5,7 @@ import myImg from '../../assets/My_headshot.jpg'
 function About() {
     return (
         <div className='aboutWrapper'>
+
                 <h2 className='uk-text-center About'>About</h2>
                  <img src={myImg} alt='' className='uk-border-circle MyImg' uk-img='true' /> 
                 <p className='uk-text-center aboutMe'>

@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 import PortfolioCard from '../components/PortfolioCard';
-import projects from '../../src/porjects.json';
+import projects from '../../src/projects.json';
 
 
 function Portfolio() {

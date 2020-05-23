@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Superhero B&B",
-      "imageUrl":"../../src/assets/stayHomeWellness.png",
+      "imageUrl":"../../assets/superheroBB.png",
       "description": "An app that allows fanatic superhero users to view their hero stats",
       "githubUrl": "https://github.com/cynthia-dm1216/ProjectGroup1",
       "deployedUrl": "https://cynthia-dm1216.github.io/ProjectGroup1/"
@@ -10,10 +10,18 @@
     {
         "id": 2,
         "title": "Stay Home Activity Finder",
-        "imageUrl":"../../src/assets/stayHomeWellness.png",
+        "imageUrl":"../../assets/stayHomeWellness.png",
         "description": "An app that finds recipes and workouts that work with what the user has at home",
         "githubUrl": "https://github.com/cynthia-dm1216/Group1-stayHomeWellness",
         "deployedUrl":"https://team1-project2.herokuapp.com"
 
+    },
+    {
+      "id": 3,
+      "title":"Google Book Search",
+      "imageUrl":"../../assets/SearchImg.png",
+      "description":"A React-base book search that allows users to save books",
+      "githubUrl":"https://github.com/cynthia-dm1216/books-research",
+      "deployedUrl":"https://google-book-search-21.herokuapp.com/"
     }
 ]
