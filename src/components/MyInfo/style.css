@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.contactInfo{
+    color: rgb(245, 167, 195);
+    background-color: #402A2C;
+    margin: auto;
+    width:50%;
+    padding: 10px;
+}

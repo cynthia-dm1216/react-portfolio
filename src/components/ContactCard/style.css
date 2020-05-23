@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.contactWrapper {
+    background-color: #402A2C;
+}
+
 #submitBtn {
     color: black;
     background-color: #402A2C;

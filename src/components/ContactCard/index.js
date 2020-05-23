@@ -3,8 +3,9 @@ import './style.css';
 
 function ContactCard() {
  return(
-     <form className='uk-form-stacked uk-position-relative' uk-height-viewport="expand: true">
-         <div className='uk-margin'>
+
+     <form className='uk-position-center' uk-height-viewport="expand: true">
+            <div className='uk-margin'>
              <label className='uk-form-label uk-text-muted'>Name</label>
              <div className='uk-form-controls'>
                  <input className='uk-input' id='name' type='text' placeholder='Kelsey Williams' />
@@ -21,9 +22,10 @@ function ContactCard() {
                 <div className='uk-form-controls'>
                     <textarea className='uk-textarea' id='message' rows='3' placeholder='Type your message...'></textarea>
                 </div>
-            </div>
-            <button id='submitBtn' className='uk-button'></button>
+                <button id='submitBtn' className='uk-button'></button>
+            </div> 
      </form>
+    
  );
 }
 
