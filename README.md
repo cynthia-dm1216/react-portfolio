@@ -10,7 +10,7 @@
 * A `Footer` that appears at the bottom of all the pages
 
 ### Deployed Portfolio
-* [GitHub](https://cynthia-dm1216.github.io/react-portfolio/.)
+* [Deployed Link](https://cynthia-dm1216.github.io/react-portfolio/.)
 
 
 ## Screenshots
