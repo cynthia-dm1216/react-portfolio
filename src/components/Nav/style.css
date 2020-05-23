@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 .logoWrapper {
@@ -12,18 +13,21 @@
 }
 
 .nameLink {
-    color: rgb(245, 167, 195);
+    color: black;
     margin-right: 100%;
-    text-align: center;
-    width:40%;
+    font-size: 20px;   
 }
 
-.navbarLink{
+.nameLink:hover {
+    color: rgb(245, 167, 195);
+}
+
+.navbarLink {
     display: flex;
 }
 
 .navbarLink li a {
-    color: rgb(245, 167, 195);
+    color: black;
 }
 
 .navbarLink li a:hover {

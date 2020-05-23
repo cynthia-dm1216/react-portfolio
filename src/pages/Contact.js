@@ -5,7 +5,7 @@ import ContactCard from '../components/ContactCard';
 function Contact(){
     return(
         <div className='containerWrapper'>
-            <h1 className='uk-text-center'>Contact</h1>
+            <h2 className='uk-text-center'>Contact</h2>
             <div className='contactContainer uk-child-width-1-2@m' uk-grid='true'>
                 <ContactCard />
             </div>

@@ -9,7 +9,7 @@ function Portfolio() {
 
   return (
       <div className='container uk-card uk-card-default'>
-          <h2 className='uk-text-center'>Portfolio</h2>
+          <h2 className='uk-text-center Portfolio'>Portfolio</h2>
           <div className='uk-child-width-1-3@m uk-child-width-1-2@s uk-child-width-1-1' uk-grid='true'
       >
       {
